@@ -1,0 +1,4 @@
+com\demo\web\WebInitializer.class
+com\demo\web\model\Student.class
+com\demo\web\controller\WelcomeController.class
+com\demo\web\config\SpringConfig.class
