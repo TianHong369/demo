@@ -1,8 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: com.demo.web.TestWelcome
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.19 s <<< FAILURE! - in com.demo.web.TestWelcome
-testWelcome  Time elapsed: 0.095 s  <<< FAILURE!
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 1.185 s <<< FAILURE! - in com.demo.web.TestWelcome
+testWelcome  Time elapsed: 0.098 s  <<< FAILURE!
 java.lang.AssertionError: Model attribute 'msg' expected:<Hello World> but was:<null>
 	at com.demo.web.TestWelcome.testWelcome(TestWelcome.java:47)
 
